@@ -66,4 +66,6 @@ Make sure you are **learning CSS** not just getting caught in the **try and see*
 * [float](http://alistapart.com/article/css-floats-101)
 * [normalize.css](http://necolas.github.io/normalize.css/)
 * [CSS Zen Garden](http://www.csszengarden.com/)
-* [sass]:http://www.sass-lang.com/install
+* [SASS][sass]
+
+[sass]:http://www.sass-lang.com/install
