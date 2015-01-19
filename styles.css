@@ -68,9 +68,13 @@ li {
 }
 
 .footer_bar {
-  width: 20%;
-  display: inline-block;
-  /*float: left;*/
+  width: 25%;
+  display: inline-table;
+  padding-right: 50px;
+  font-size: 1.1em;
+  font-family: inherit;
+  padding-top: 5px;
+
 }
 
 .footer_li {
