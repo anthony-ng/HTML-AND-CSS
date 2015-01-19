@@ -37,6 +37,10 @@ li {
   height: 250px;
 }
 
+#intro_header {
+  width: 70%;
+}
+
 #submit {
   background-color: blue;
   color: white;
