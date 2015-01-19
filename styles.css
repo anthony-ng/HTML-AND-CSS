@@ -1,0 +1,46 @@
+li {
+  display: inline;
+  list-style: none;
+  padding-right: 50px;
+}
+
+.nav_bar {
+  background-color: #333333;
+  color: white;
+  font-size: 1.5em;
+}
+
+#dbc_logo {
+  height: 56px;
+  width: 120px;
+}
+
+#apply {
+  background-color: #43ac6a;
+  border-color: #368a55;
+  font-size: 1.5em;
+}
+
+.main {
+  padding: 150px;
+  padding-bottom: 200px;
+  background-image: url("http://agiletrail.com/wp-content/uploads/photo-2.jpg");
+  background-size: 100%;
+  width: 90%;
+}
+
+.intro {
+  background-color: white;
+  width: 50%;
+}
+
+#submit {
+  background-color: blue;
+  color: white;
+}
+
+.footer {
+  background-color: #333333;
+  color: white;
+  line-height: 1.6;
+}
