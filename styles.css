@@ -4,10 +4,16 @@ li {
   padding-right: 50px;
 }
 
+.container {
+  position: relative;
+}
+
 .nav_bar {
   background-color: #333333;
   color: white;
   font-size: 1.5em;
+  /*position: absolute;*/
+  /*vertical-align: top;*/
 }
 
 #dbc_logo {
@@ -28,6 +34,7 @@ li {
   background-size: 100%;
   width: 80%;
   padding-top: 80px;
+  /*vertical-align: top;*/
 }
 
 .intro {
