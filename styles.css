@@ -1,0 +1,89 @@
+li {
+  display: inline;
+  list-style: none;
+  padding-right: 50px;
+}
+
+.container {
+  position: relative;
+}
+
+.nav_bar {
+  background-color: #333333;
+  color: white;
+  font-size: 1.5em;
+  /*position: absolute;*/
+  /*vertical-align: top;*/
+}
+
+#dbc_logo {
+  height: 56px;
+  width: 120px;
+}
+
+#apply {
+  background-color: #43ac6a;
+  border-color: #368a55;
+  font-size: 1.5em;
+}
+
+.main {
+  padding: 150px;
+  padding-bottom: 200px;
+  background-image: url("http://agiletrail.com/wp-content/uploads/photo-2.jpg");
+  background-size: 100%;
+  width: 80%;
+  padding-top: 80px;
+  /*vertical-align: top;*/
+}
+
+.intro {
+  background-color: white;
+  width: 350px;
+  border: red solid;
+  padding: 30px;
+  height: 250px;
+  padding-bottom: 70px;
+  padding-top: 10px;
+}
+
+#intro_header {
+  width: 70%;
+  text-align: center;
+  padding-left: 50px;
+  font-size: 32px;
+}
+
+#intro_para {
+  font-size: 1.3em;
+  text-align: center;
+}
+
+#submit {
+  background-color: #008cba;
+  color: white;
+  width: 300px;
+  height: 50px;
+  font-size: 1.5em;
+  margin-left: 20px;
+}
+
+.footer {
+  background-color: #333333;
+  color: white;
+  line-height: 1.6;
+}
+
+.footer_bar {
+  width: 25%;
+  display: inline-table;
+  padding-right: 50px;
+  font-size: 1.1em;
+  font-family: inherit;
+  padding-top: 5px;
+
+}
+
+.footer_li {
+  /*margin-right: 10%;*/
+}
