@@ -35,21 +35,28 @@ li {
   border: red solid;
   padding: 30px;
   height: 250px;
+  padding-bottom: 70px;
 }
 
 #intro_header {
   width: 70%;
+  text-align: center;
+  padding-left: 50px;
+  font-size: 32px;
 }
 
 #intro_para {
   font-size: 1.3em;
+  text-align: center;
 }
 
 #submit {
   background-color: #008cba;
   color: white;
   width: 300px;
-
+  height: 50px;
+  font-size: 1.5em;
+  margin-left: 20px;
 }
 
 .footer {
