@@ -1,7 +1,7 @@
 # HTML AND CSS
 
 ## Summary
-HTML is used to create the general structure of a page.  CSS is used to add styles to this page.  In this challenge I use HTML and CSS to recreate an existing web site [Dev Bootcamp](www.devbootcamp.com) within a hour.
+HTML is used to create the general structure of a page.  CSS is used to add styles to this page.  In this challenge I use HTML and CSS to recreate an existing web site [Dev Bootcamp](http://www.devbootcamp.com) within a hour.
 
 ## Learning Competencies
 
