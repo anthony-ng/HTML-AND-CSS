@@ -69,5 +69,10 @@ li {
 
 .footer_bar {
   width: 20%;
+  display: inline-block;
+  /*float: left;*/
 }
 
+.footer_li {
+  /*margin-right: 10%;*/
+}
